@@ -9,6 +9,8 @@ public class Basics {
 		Screen image=new Screen();
 		image.click("E:\\batch 244\\file.png");
 		system.out.println("Done Bro")
+		System.out.println("Done.......................");
+			
 		
 
 	}
