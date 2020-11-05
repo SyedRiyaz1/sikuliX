@@ -10,6 +10,7 @@ public class Basics {
 		image.click("E:\\batch 244\\file.png");
 		system.out.println("Done Bro")
 		System.out.println("Done.......................");
+		System.out.println("Done.....Rohan..................");
 			
 		
 
